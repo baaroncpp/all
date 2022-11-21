@@ -6,7 +6,7 @@ server:
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5434/sms_db
-    username: aaron
+    username: postgres
     password: aaron
   jpa:
     show-sql: true
